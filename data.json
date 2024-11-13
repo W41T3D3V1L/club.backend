@@ -1,0 +1,285 @@
+{
+    "faculty": [
+    {
+      "name": "Dr. Dwiti Krishna Bebarta",
+      "qualification": "M.tech, Phd",
+      "designation": "Associative professor, Hod",
+      "image": "https://img.freepik.com/premium-photo/man-teacher-2d-cartoon-illustraton-white-background-high_1022026-49633.jpg"
+    },
+    {
+      "name": "Mr. K. Purushotham Naidu",
+      "qualification": "B.Tech, M.Tech, Phd",
+      "designation": "Assistant professor",
+      "image": "https://img.freepik.com/premium-vector/teachers-day-cartoon-clip-art-vector-illustration-design_1221743-13468.jpg?semt=ais_hybrid"
+    },
+    {
+      "name": "Ms. D. Santhoshi",
+      "qualification": "B.Tech, M.Tech",
+      "designation": "Assistant professor",
+      "image": "https://img.freepik.com/premium-photo/teacher-cartoon-3d-image-isolated-white_776894-120362.jpg?semt=ais_hybrid"
+    },
+    {
+      "name": "Dr. M.R.K. Krishna Rao",
+      "qualification": "Ph.D (TIFR, Bombay)",
+      "designation": "Professor",
+      "image": "https://png.pngtree.com/png-clipart/20230914/original/pngtree-teach-clipart-cartoon-teacher-cartoon-illustration-with-cartoon-man-and-chalkboard-png-image_12151577.png"
+    }
+  ],
+    "facultyresearch": [
+      {
+        "name": "Dr. Dwiti Krishna Bebarta",
+        "qualification": "Online International Faculty Development Program on Latest Trend and Techniques in Software Engineering: An Industry Perspective",
+        "Duration": "20 Jan 2024-27 Jan 2024",
+        "Days": "7",
+        "Organization": "CHRIST University, Bangalore Central Campus",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE9ML0QbGwOiQvUlDh1_E4PSKmHPyTRxjuaQ&s"
+      },
+      {
+        "name": "Mrs. H. Gouthami",
+        "qualification": "Multi-Disciplinary Research Trends in Artificial Intelligence",
+        "Duration": "20-02-2024 - 24-02-2024",
+        "Days": "5",
+        "Organization": "Lakireddy Balireddy College of Engineering ( Department of Artificial Intelligence and Data Science)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6jjvL-Ntbr5eGlNjyX1NXUTNZAzrTDKv_Xw&s"
+      },
+      {
+        "name": "Dr K Purushotam Naidu",
+        "qualification": "Recent Advancements in Deep Learning for Computer Vision Applications",
+        "Duration": "01-04-2024 - 12-04-2024",
+        "Days": "14",
+        "Organization": "Department of Electronics and Communication Engineering, CVR College of Engineering, Hyderabad.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE9ML0QbGwOiQvUlDh1_E4PSKmHPyTRxjuaQ&s"
+      },
+      {
+        "name": "Dr. Dwiti Krishna Bebarta",
+        "qualification": "Agile Methodologies and Devops",
+        "Duration": "10,11-6-2024  - 15/06/2024",
+        "Days": "3",
+        "Organization": "GVP College of Engineering for Women (A)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE9ML0QbGwOiQvUlDh1_E4PSKmHPyTRxjuaQ&s"
+      },
+      {
+        "name": "H.Gouthami",
+        "qualification": "Agile Methodologies and Devops",
+        "Duration": "10-6-2024 11-6-2024  - 15/06/2024",
+        "Days": "3",
+        "Organization": "GVP College of Engineering for Women (A)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6jjvL-Ntbr5eGlNjyX1NXUTNZAzrTDKv_Xw&s"
+      },
+      {
+        "name": "D.Santoshi",
+        "qualification": "Agile Methodologies and Devops",
+        "Duration": "10-6-2024 11-6-2024  - 15/06/2024",
+        "Days": "3",
+        "Organization": "GVP College of Engineering for Women (A)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6jjvL-Ntbr5eGlNjyX1NXUTNZAzrTDKv_Xw&s"
+      },
+      {
+        "name": "Dr. M R K Krishna Rao",
+        "qualification": "Agile Methodologies and Devops",
+        "Duration": "10-6-2024 11-6-2024  - 15/06/2024",
+        "Days": "3",
+        "Organization": "GVP College of Engineering for Women (A)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE9ML0QbGwOiQvUlDh1_E4PSKmHPyTRxjuaQ&s"
+      }
+    ],
+    "students": [
+      {
+        "rollno": "322103282099",
+        "name": "V.Vani",
+        "class": "3CSM",
+        "position": "Joint Secretary",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6jjvL-Ntbr5eGlNjyX1NXUTNZAzrTDKv_Xw&s"
+      },
+      {
+        "rollno": "322103282157",
+        "name": "A. Sowjanya",
+        "class": "3CSM",
+        "position": "President",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6jjvL-Ntbr5eGlNjyX1NXUTNZAzrTDKv_Xw&s"
+      },
+      {
+        "rollno": "322103282211",
+        "name": "G. Sowmya",
+        "class": "3CSM",
+        "position": "Vice President",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6jjvL-Ntbr5eGlNjyX1NXUTNZAzrTDKv_Xw&s"
+      },
+      {
+        "rollno": "322103282098",
+        "name": "M. Krishnaveni",
+        "class": "3CSM",
+        "position": "Social media handler",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6jjvL-Ntbr5eGlNjyX1NXUTNZAzrTDKv_Xw&s"
+      }
+    ],
+    "studentsHackthon": [
+      {
+        "name": "Project based workshop on Neural Network & Machine Learning",
+        "Date": "18,19 & 20th January 2024",
+        "enrolled": "19",
+        "Organization": "GVPCEW",
+        "image": "https://miro.medium.com/v2/resize:fit:1400/0*w8Fo04zcRH4btjI9"
+      },
+      {
+        "name": "Guest Lecturer on getting industry ready",
+        "Date": "13th February 2024",
+        "enrolled": "42",
+        "Organization": "GVPCEW",
+        "image": "https://img.freepik.com/free-vector/gradient-industry-4-0-background_23-2151300415.jpg"
+      },
+      {
+        "name": "Workshop on Machine Learning using Python",
+        "Date": "22 & 23rd February, 2024",
+        "enrolled": "28",
+        "Organization": "GVPCEW",
+        "image": "https://www.modelcamtechnologies.com/iot-training-courses-pune/images/Machin-Learning1.png"
+      },
+      {
+        "name": "Series of Expert talks on Python & its applications",
+        "Date": "24 February, 2024",
+        "enrolled": "25",
+        "Organization": "GVPCEW",
+        "image": "https://c8.alamy.com/comp/RW5315/python-programming-language-on-server-room-background-programing-workflow-abstract-algorithm-concept-on-virtual-screen-RW5315.jpg"
+      },
+      {
+        "name": "Series of Expert talks on Python & its applications",
+        "Date": "1, 16 & 30th March 2024",
+        "enrolled": "41",
+        "Organization": "GVPCEW",
+        "image": "https://img.freepik.com/premium-photo/it-business-python-code-computer-screen-mobile-application-design-concept_372999-6955.jpg"
+      }
+    ],
+    "studentsCerti": [
+      {
+        "rollno": "21JG1A4203",
+        "name": "Bandaru Shweta Evangeline",
+        "achievement": "IEEE Member/ Secretary",
+        "organization": "IEEE SB GVPCEW",
+        "certificate": "https://drive.google.com/file/d/1HKMN7CmK0UotDZbXsdRwzQCgUzyjB5NL/view?usp=drive_link"
+      },
+      {
+        "rollno": "322103282023",
+        "name": "D.V.G.HARIKA",
+        "achievement": "Content Writer",
+        "organization": "NEXUS Swarm",
+        "certificate": "https://drive.google.com/file/d/1HKMN7CmK0UotDZbXsdRwzQCgUzyjB5NL/view?usp=drive_link"
+      }
+    ],
+    "studentsProj": [
+      {
+        "rollno": "322103282195",
+        "name": "A.Harika",
+        "class": "3CSM",
+        "project": "Web development",
+        "image" : "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2ViJTIwZGVzaWdufGVufDB8fDB8fHww"
+      },
+      {
+        "rollno": "322103282096",
+        "name": "M.Madhugna",
+        "class": "3CSM",
+        "project": "Cyber Security",
+        "image" : "https://c1.wallpaperflare.com/preview/293/895/590/cyber-security-internet-security-hacking.jpg"
+      },
+      {
+        "rollno": "322103282080",
+        "name": "H.Faria",
+        "class": "3CSM",
+        "project": "Machine Learning",
+        "image" : "https://plus.unsplash.com/premium_photo-1682124651258-410b25fa9dc0?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWFjaGluZSUyMGxlYXJuaW5nfGVufDB8fDB8fHww"
+      },
+      {
+        "rollno": "322103282122",
+        "name": "G.Santhoshini",
+        "class": "3CSM",
+        "project": "Crop Yield prediction",
+        "image" : "https://img.freepik.com/premium-photo/aiassisted-crop-monitoring-yield-prediction_861346-39798.jpg"
+      }
+    ],
+    "events": [
+      {
+        "title": "AIMERS club inaugural",
+        "startDate": "16-11-2024",
+        "endDate": "-",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKRb2eXF2laBPjuwUQGnlxzFplamrvehkGeg&s"
+      }
+    ],
+    "placements": [
+      {
+        "companyName": "Amazon - AWS CSA",
+        "departments": { "CSE": 4, "IT": 1, "ECE": 1, "EEE": 0 },
+        "total": 6,
+        "package": "₹ 21,83,400.00",
+        "companyLogo": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcontenu.nyc3.digitaloceanspaces.com%2Fjournalist%2F6bfcdcff-755a-4eba-b642-8f68e11b8066%2Fthumbnail.jpeg"
+      },
+      {
+        "companyName": "KEKA Technologies",
+        "departments": { "CSE": 2, "IT": 0, "ECE": 0, "EEE": 0 },
+        "total": 2,
+        "package": "₹ 8,00,000.00",
+         "companyLogo": "https://5.imimg.com/data5/SELLER/Default/2022/9/OW/UK/JY/39886467/keka-hr.png"
+      },
+      {
+        "companyName": "Capgemini - SSA",
+        "departments": { "CSE": 6, "IT": 0, "ECE": 0, "EEE": 0 },
+        "total": 6,
+        "package": "₹ 7,50,000.00",
+         "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-wE0QvC9VERgW5Sk0l3JQDzXuSAcLLa_RQ&s"
+      },
+      {
+        "companyName": "Gyan Data",
+        "departments": { "CSE": 2, "IT": 0, "ECE": 0, "EEE": 0 },
+        "total": 2,
+        "package": "₹ 7,20,000.00",
+         "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSEv2In89uJeX229AQEWqdTlsoQKy3IUOV0Q&s"
+      },
+      {
+        "companyName": "TCS-DIGITAL",
+        "departments": { "CSE": 8, "IT": 3, "ECE": 2, "EEE": 0 },
+        "total": 13,
+        "package": "₹ 7,00,022.00",
+         "companyLogo": "https://media.licdn.com/dms/image/v2/D4D22AQH_bNZI8nLIzg/feedshare-shrink_800/feedshare-shrink_800/0/1691838157305?e=2147483647&v=beta&t=Tf992SeUZRpryLlVJwmF-zeCvNQDlym0zHqegt2WlKQ"
+      },
+      {
+        "companyName": "JSW",
+        "departments": { "CSE": 0, "IT": 0, "ECE": 3, "EEE": 0 },
+        "total": 3,
+        "package": "₹ 6,50,000.00",
+         "companyLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/JSW_Group_logo.svg/2560px-JSW_Group_logo.svg.png"
+      },
+      {
+        "companyName": "PwC - Cloud & Digital",
+        "departments": { "CSE": 2, "IT": 2, "ECE": 1, "EEE": 0 },
+        "total": 5,
+        "package": "₹ 6,00,000.00",
+         "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEWvB-OUSw8Mw/company-logo_200_200/company-logo_200_200/0/1720632247130/pwc_us_cloud_and_digital_logo?e=2147483647&v=beta&t=a4E55ke1CtNZ06pNAtYzqns_fWsUMt1XUN041OVUE8g"
+      },
+      {
+        "companyName": "PwC - Sales force",
+        "departments": { "CSE": 2, "IT": 2, "ECE": 2, "EEE": 0 },
+        "total": 6,
+        "package": "₹ 6,00,000.00",
+         "companyLogo": "https://www.pwc.com/m1/en/alliances/assets/images/salesforce-logo.png"
+      },
+      {
+        "companyName": "Akrivia HCM",
+        "departments": { "CSE": 1, "IT": 0, "ECE": 0, "EEE": 0 },
+        "total": 1,
+        "package": "₹ 6,00,000.00",
+         "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQE44v3rbuil2w/company-logo_200_200/company-logo_200_200/0/1666965332502/akrivia_hcm_logo?e=2147483647&v=beta&t=CdCr7wngykj_uQC1OcprezNBPmZCa3pf-aRtK3M_NEY"
+      },
+      {
+        "companyName": "Syren Technologies",
+        "departments": { "CSE": 0, "IT": 0, "ECE": 1, "EEE": 0 },
+        "total": 1,
+        "package": "₹ 6,00,000.00",
+         "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRne36DXvXFh3Jx9Y4L96JZz_0DpRTObYL1zQ&s"
+      }
+    ],
+    "contactInfo": {
+      "linkedin": "https://www.linkedin.com/redir/redirect?url=http%3A%2F%2Faimers%2Eco%2Ekr&urlhash=u0QB&trk=about_website",
+      "instagram": "https://www.instagram.com/aimers_gvpcew?igsh=c2x2bDRob3Z6cG9u",
+      "youtube": "https://www.youtube.com/@kpnaiduacademy"
+    }
+  }
+  
